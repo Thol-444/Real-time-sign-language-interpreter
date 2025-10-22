@@ -1,7 +1,5 @@
 # Real-time-sign-language-interpreter
 
-# Real-Time Sign Language Interpreter
-
 A **real-time sign language interpreter** using Python, OpenCV, and MediaPipe that can detect multiple hand gestures and display their names on the screen. This project can help bridge communication between people who use sign language and those who don’t understand it.
 
 ---
